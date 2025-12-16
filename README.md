@@ -1,7 +1,7 @@
 ## Olá 👋
-Meu nome é Kauã, sou desenvolvedor web cursando no IFRN, com preferências por ecossistemas robustos como Java e TypeScript.
+Meu nome é Kauã, sou desenvolvedor web cursando no IFRN, e estou estudando para me tornar Full Stack nas linguagens Java e TypeScript.
 
-Atualmente estudando: Angular e Banco de Dados.
+Atualmente estudando: Typescript com Framework Angular, Banco de Dados e Java.
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaua-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Kaua-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
